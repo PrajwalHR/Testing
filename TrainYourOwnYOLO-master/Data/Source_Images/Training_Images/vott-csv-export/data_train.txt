@@ -1,0 +1,100 @@
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\9k_%20(1).jpg 80.0,3.0,215.0,144.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\9k_%20(2).jpg 59.0,6.0,174.0,126.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\2Q__%20(1).jpg 27.0,15.0,107.0,87.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\2Q__%20(2).jpg 87.0,2.0,197.0,124.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\2Q__.jpg 3.0,1.0,106.0,103.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\9k_%20(4).jpg 96.0,30.0,151.0,79.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\9k_%20(5).jpg 135.0,4.0,266.0,131.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\9k_%20(3).jpg 66.0,49.0,177.0,153.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\9k_%20(6).jpg 145.0,55.0,213.0,129.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\9k_%20(7).jpg 81.0,39.0,180.0,137.0,0 148.0,0.0,248.0,101.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\9k_.jpg 26.0,0.0,186.0,162.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\Z%20(2).jpg 187.0,0.0,269.0,70.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\Z%20(3).jpg 13.0,0.0,247.0,170.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\Z%20(4).jpg 80.0,58.0,185.0,172.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\Z%20(1).jpg 46.0,4.0,143.0,100.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\Z.jpg 117.0,22.0,235.0,127.0,0 6.0,84.0,104.0,180.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(1).jpg 9.0,9.0,195.0,169.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(10).jpg 56.0,23.0,119.0,82.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(100).jpg 109.0,86.0,154.0,124.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(11).jpg 123.0,19.0,193.0,88.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(14).jpg 7.0,22.0,195.0,182.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(12).jpg 95.0,51.0,186.0,120.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(13).jpg 68.0,14.0,183.0,109.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(15).jpg 28.0,8.0,138.0,119.0,0 67.0,55.0,195.0,193.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(16).jpg 23.0,8.0,210.0,181.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(18).jpg 47.0,5.0,251.0,168.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(17).jpg 74.0,12.0,181.0,98.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(19).jpg 153.0,2.0,254.0,100.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(2).jpg 67.0,16.0,132.0,77.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(20).jpg 46.0,26.0,133.0,107.0,0 132.0,35.0,213.0,107.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(21).jpg 17.0,77.0,102.0,167.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(23).jpg 175.0,8.0,228.0,67.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(22).jpg 150.0,6.0,226.0,95.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(24).jpg 80.0,2.0,225.0,146.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(25).jpg 56.0,19.0,146.0,94.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(26).jpg 82.0,17.0,177.0,115.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(27).jpg 44.0,62.0,207.0,175.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(29).jpg 29.0,2.0,180.0,155.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(28).jpg 163.0,27.0,278.0,112.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(3).jpg 13.0,9.0,108.0,112.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(30).jpg 122.0,65.0,159.0,112.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(31).jpg 153.0,83.0,180.0,110.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(32).jpg 142.0,21.0,222.0,91.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(33).jpg 129.0,17.0,289.0,163.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(34).jpg 65.0,102.0,85.0,122.0,0 93.0,81.0,119.0,104.0,0 124.0,82.0,149.0,105.0,0 150.0,84.0,175.0,107.0,0 180.0,85.0,206.0,112.0,0 213.0,95.0,239.0,118.0,0 243.0,110.0,262.0,132.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(36).jpg 77.0,23.0,170.0,111.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(35).jpg 46.0,25.0,145.0,146.0,0 131.0,8.0,250.0,128.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(37).jpg 96.0,10.0,171.0,74.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(38).jpg 67.0,20.0,172.0,111.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(39).jpg 8.0,10.0,146.0,123.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(4).jpg 109.0,27.0,188.0,98.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(40).jpg 172.0,3.0,279.0,109.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(42).jpg 106.0,7.0,195.0,87.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(41).jpg 57.0,40.0,237.0,170.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(43).jpg 78.0,38.0,106.0,73.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(44).jpg 55.0,5.0,217.0,177.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(46).jpg 67.0,56.0,158.0,118.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(45).jpg 16.0,17.0,243.0,187.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(47).jpg 54.0,5.0,164.0,101.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(48).jpg 55.0,42.0,100.0,87.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(49).jpg 195.0,41.0,266.0,101.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(50).jpg 94.0,21.0,119.0,47.0,0 180.0,12.0,203.0,33.0,0 235.0,14.0,261.0,37.0,0 105.0,102.0,131.0,126.0,0 226.0,103.0,265.0,148.0,0 52.0,98.0,76.0,117.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(5).jpg 109.0,7.0,212.0,110.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(51).jpg 20.0,4.0,118.0,84.0,0 176.0,46.0,273.0,168.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(52).jpg 164.0,27.0,224.0,84.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(53).jpg 0.0,0.0,110.0,101.0,0 155.0,26.0,286.0,148.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(54).jpg 39.0,1.0,205.0,150.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(56).jpg 63.0,14.0,179.0,124.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(57).jpg 121.0,59.0,188.0,122.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(58).jpg 76.0,30.0,225.0,168.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(59).jpg 95.0,2.0,171.0,86.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(6).jpg 74.0,3.0,131.0,53.0,0 184.0,56.0,252.0,113.0,0 133.0,26.0,190.0,83.0,0 247.0,21.0,288.0,73.0,0 11.0,37.0,62.0,92.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(60).jpg 122.0,21.0,251.0,134.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(61).jpg 170.0,12.0,238.0,81.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(62).jpg 99.0,21.0,156.0,81.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(63).jpg 46.0,31.0,130.0,105.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(64).jpg 111.0,11.0,218.0,131.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(65).jpg 52.0,24.0,131.0,118.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(66).jpg 94.0,38.0,188.0,124.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(67).jpg 76.0,3.0,190.0,113.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(69).jpg 54.0,17.0,238.0,166.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(68).jpg 119.0,13.0,244.0,137.0,0 30.0,23.0,131.0,125.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(7).jpg 71.0,20.0,121.0,65.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(70).jpg 176.0,7.0,255.0,98.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(71).jpg 146.0,0.0,254.0,116.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(73).jpg 63.0,0.0,212.0,131.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(72).jpg 58.0,5.0,211.0,154.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(74).jpg 177.0,54.0,242.0,113.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(75).jpg 26.0,29.0,166.0,148.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(76).jpg 15.0,6.0,84.0,82.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(78).jpg 47.0,22.0,183.0,150.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(77).jpg 82.0,63.0,134.0,120.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(79).jpg 103.0,5.0,180.0,56.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(8).jpg 86.0,0.0,293.0,163.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(80).jpg 102.0,65.0,132.0,103.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(81).jpg 67.0,1.0,200.0,147.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(82).jpg 76.0,16.0,190.0,138.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(83).jpg 97.0,5.0,264.0,166.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(84).jpg 46.0,7.0,147.0,99.0,0
+C:\Users\sumis\Downloads\TrainYourOwnYOLO-master\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\images%20(85).jpg 55.0,34.0,93.0,79.0,0 216.0,31.0,251.0,70.0,0
